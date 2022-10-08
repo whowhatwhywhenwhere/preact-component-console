@@ -1,5 +1,0 @@
-{
-  "presets": [
-    "preact-widget-scripts/babel"
-  ]
-}
